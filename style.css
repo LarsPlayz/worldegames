@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(18,18,19);
+    color: white;
+}
+
+header{
+    text-align: center;
+    font-size: xx-large;
+    margin: 50px 0 0 0;
+}
+
+
+main a{
+    color: white;
+    text-align: center;
+    margin: 20px;
+    font-size: xx-large;
+    text-decoration: none;
+    position: relative;
+    bottom: 50px;
+}
+
+hr{
+    width: 50%;
+    position: relative;
+    bottom: 40px;
+}
+
+img{
+    max-width: 150px;
+    max-height: 100px;
+}
+
