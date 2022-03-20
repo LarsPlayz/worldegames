@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(18,18,19);
+    color: white;
+}
+
+header{
+    text-align: center;
+    font-size: xx-large;
+    margin: 50px 0 0 0;
+}
+
+
+main a{
+    color: white;
+    font-size: xx-large;
+    text-decoration: none;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+}
+
+hr{
+    width: 50%;
+    position: relative;
+    bottom: 40px;
+}
+
+img{
+    align-items: center;
+    max-width: 150px;
+    max-height: 100px;
+}
+
