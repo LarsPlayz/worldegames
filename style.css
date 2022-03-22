@@ -3,10 +3,10 @@ body{
     color: white;
 }
 
-header a{
+header{
+    margin: auto;
     text-align: center;
     font-size: xx-large;
-    margin: 50px 0 0 0;
 }
 
 
@@ -20,14 +20,14 @@ main a{
     margin: auto;
     width: 50%;
     position: relative;
-    bottom: 20px;
     text-align: center;
+    bottom: 20px;
 }
 
 hr{
     width: 50%;
     position: relative;
-    bottom: 40px;
+    bottom: 25px;
 }
 
 img{
